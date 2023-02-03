@@ -1,0 +1,12 @@
+title:Michanikos
+
+// Firefright - Destiny Fun Police's Firefright (pvp)
+//notes: https://www.youtube.com/watch?v=BGNkyaL1sUE tags:pvp
+dimwishlist:item=2778013407&perks=839105230,1561002382,494941759,2889515627
+
+
+// Love and Death - Truds' Love and Death (pve)
+//notes: https://www.youtube.com/watch?v=UAzGouC-4T8 tags:pve
+dimwishlist:item=3690523502&perks=3301904089,2284787283,3523296417
+
+
